@@ -1,0 +1,16 @@
+
+    div {
+      height: 700px;
+      width: 400px;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .boundary {
+      background-color: cadetblue;
+      padding: 20px;
+      border: 20px solid black;
+    }
+
